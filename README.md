@@ -32,3 +32,4 @@ For the analysis I did a descriptive statistics and drew bar graphs to show avar
 
 # ACT 
  For further analysis I exported the cleaned csv data and uploaded on tablue to create a more interactive visual to share with stakeholders.
+ Find the tableau link here https://public.tableau.com/app/profile/stephanie2426/viz/cyclistcasestudy_16690324169210/Story1 
