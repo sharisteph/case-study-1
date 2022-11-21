@@ -28,3 +28,7 @@ For this case study,I used the Cyclistic’s historical trip data to analyze and
 For this analysis I use R as my first tool for data cleaning and data analysis. I load the data from CSV file, combine it and conduct data cleaning. I check for consistency in my data formats and that the variables I have can answer my questions.
 
 # ANALYZE
+For the analysis I did a descriptive statistics and drew bar graphs to show avarage ride lenght, number of rides by weekday and filtered by member and casual.
+
+# ACT 
+ For further analysis I exported the cleaned csv data and uploaded on tablue to create a more interactive visual to share with stakeholders.
